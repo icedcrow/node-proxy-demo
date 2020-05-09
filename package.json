@@ -1,0 +1,12 @@
+{
+  "name": "node-proxy-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.0",
+    "puppeteer": "^3.0.4",
+    "send": "^0.17.1"
+  }
+}
